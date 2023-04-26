@@ -1,0 +1,27 @@
+Agile Mindset
+Agile-Scrum
+Iterative and incremental value
+Agile, you make data driven decision
+
+Agree or Disagree but commit.
+Failure is not an option.
+3 reason Agile project fail
+1) Management is not well trained
+2) Team Member is not trained in Agile
+3) Customer doesn't know Agile
+Scrum Master educates- Customer - Management team and Devolopers.
+To tackle any problem: 
+1) Importance
+2) Urgent
+PPT: People, Process, Technology
+TAI: Tranceperancy, Adapt, Inspect
+REAR: Role, Events, Artifact, Ruler
+Business(organization):Products/Goods/service -->Revenue
+                       Deliver  product/service-->
+find customers needs, deliver the need
+Waterfall you devolope product 1st
+Agile you find the customer 1st (to whom you want to serve)
+research the needs of customer
+Persona:(BA/Product Owner): Differenciation
+water Fall:Reqirement not changing, if things are predictable.
+
